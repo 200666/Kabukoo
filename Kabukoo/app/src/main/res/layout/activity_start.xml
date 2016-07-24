@@ -10,7 +10,6 @@
     android:background="#6A99EE"
     tools:context="com.example.kabukoo.kabukoo.StartActivity">
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -62,7 +61,7 @@
         android:textAppearance="?android:textAppearanceLarge"
         android:id="@+id/button"
         android:layout_centerVertical="true"
-        android:background="@drawable/play"
+        android:background="@drawable/playbutton"
         android:layout_centerHorizontal="true" />
 
     <ImageView
